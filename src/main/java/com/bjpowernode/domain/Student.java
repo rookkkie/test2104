@@ -1,6 +1,8 @@
 package com.bjpowernode.domain;
 
+
 import lombok.Data;
+
 
 /**
  * Author 北京动力节点
@@ -13,5 +15,7 @@ public class Student
     private String name;
     private int age;
     private String phone;
+    private String address;
+
 
 }
